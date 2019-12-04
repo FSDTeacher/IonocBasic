@@ -1,0 +1,7 @@
+{
+  "name": "FullStackDevOps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
